@@ -17,7 +17,7 @@ Install project dependencies and start a local server with the following termina
 ```
 **_NOTE_**: Before installation and in the projects, please don't forget to install typescript globally into your package manager system(npm).
     
-## Stay in Touch
+## 🚀 Stay in Touch
 
 - Author - Tokay Korkut 
 -  - Github Profile - [It is me!](https://www.github.com/tokaykorkut)
